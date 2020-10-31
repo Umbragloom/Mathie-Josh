@@ -4,8 +4,8 @@
 
 
 <a href="https://github.com/Mathie-Josh/Arch_Laptop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mathie-Josh&repo=Arch_Laptop&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mathie-Josh&repo=Arch_Laptop&theme=tokyonight&show_owner=true" />
 </a>
 <a href="https://github.com/Mathie-Josh/website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mathie-Josh&repo=website" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mathie-Josh&repo=website&theme=tokyonight&show_owner=true" />
 </a>
