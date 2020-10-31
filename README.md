@@ -7,5 +7,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mathie-Josh&repo=Arch_laptop&theme=tokyonight&show_owner=true" />
 </a>
 <a href="https://github.com/Mathie-Josh/website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mathie-Josh&repo=website&theme=tokyonight&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mathie-Josh&repo=website&theme=tokyonight" />
 </a>
