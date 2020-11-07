@@ -1,10 +1,10 @@
-# My Git Hub Stats
+# My Git Hub Stats:
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mathie-Josh&show_icons=true&theme=tokyonight)
 
-# My Top Languages
+# My Top Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathie-Josh&langs_count=8&show_icons=true&theme=tokyonight)](https://github.com/Mathie-Josh)
 
-# My two most activy Repos
+# My Two most active Repos:
 <a href="https://github.com/Mathie-Josh/Arch_laptop">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mathie-Josh&repo=Arch_laptop&theme=tokyonight&show_owner=true" />
 </a>
