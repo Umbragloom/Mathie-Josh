@@ -20,3 +20,8 @@ I am a 30 something "Millennial" who enjoys very eclectic things. Some of my hob
 3. Linux
 4. Programming
 5. Macabre things.
+
+# What i'm working on:
+1. Im working on a website built on the Hugo framework that I'm hosting through Github for integration control, Netlify for automated building of the website, and NetlifyCMS for on-the-go editing. 
+2. Keeping my Arch Linux .dotfiles updated and stored for easy migration if needed. 
+3. Working on possibly hosting a few programming projects here once I get a chance to work on them.
